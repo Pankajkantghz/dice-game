@@ -18,18 +18,6 @@ This is a simple web-based dice game where two players roll a dice, and the play
 
 1. Clone the repository or download the files.
 2. Ensure you have the following file structure:
-/project-directory
-├── index.html
-├── styles.css
-├── index.js
-└── images/
-├── dice1.png
-├── dice2.png
-├── dice3.png
-├── dice4.png
-├── dice5.png
-└── dice6.png
-
 3. Open `index.html` in a web browser to play the game.
 
 ## How to Play
